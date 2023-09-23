@@ -1,0 +1,10 @@
+.wrapper{
+
+    width: 60%;
+    margin: auto;
+    height: 100px;
+    border: 2px solid;
+}
+.wrapper input{
+    /* width: 100%; */
+}
